@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cse-22-diary/static/css/main.8a7b6621.chunk.css",
+    "main.js": "/cse-22-diary/static/js/main.7fc92a75.chunk.js",
+    "main.js.map": "/cse-22-diary/static/js/main.7fc92a75.chunk.js.map",
+    "runtime-main.js": "/cse-22-diary/static/js/runtime-main.6b173a0c.js",
+    "runtime-main.js.map": "/cse-22-diary/static/js/runtime-main.6b173a0c.js.map",
+    "static/js/2.ab07c860.chunk.js": "/cse-22-diary/static/js/2.ab07c860.chunk.js",
+    "static/js/2.ab07c860.chunk.js.map": "/cse-22-diary/static/js/2.ab07c860.chunk.js.map",
+    "index.html": "/cse-22-diary/index.html",
+    "precache-manifest.259eae3d7d999124660a366aebbf7782.js": "/cse-22-diary/precache-manifest.259eae3d7d999124660a366aebbf7782.js",
+    "service-worker.js": "/cse-22-diary/service-worker.js",
+    "static/css/main.8a7b6621.chunk.css.map": "/cse-22-diary/static/css/main.8a7b6621.chunk.css.map",
+    "static/js/2.ab07c860.chunk.js.LICENSE.txt": "/cse-22-diary/static/js/2.ab07c860.chunk.js.LICENSE.txt",
+    "static/media/memories.png": "/cse-22-diary/static/media/memories.5c0c63fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b173a0c.js",
+    "static/js/2.ab07c860.chunk.js",
+    "static/css/main.8a7b6621.chunk.css",
+    "static/js/main.7fc92a75.chunk.js"
+  ]
+}
